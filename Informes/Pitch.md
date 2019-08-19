@@ -6,4 +6,4 @@ Farmacia Nueva Era es una farmacia independiente ubicada en Ancud que carece de 
 
 Mi nombre es "", y junto a mi compañero "", estamos desarrollando un sistema web para Farmacia Nueva Era que busca suplir esta necesidad, mediante la automatización de las tareas de administración de inventario. El objetivo del proyecto es brindar a Nueva Era un medio que les permita optimizar en cierta medida los tiempos dispuestos para estos procesos.
 
-
+La aplicación 
