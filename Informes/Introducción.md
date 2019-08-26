@@ -1,20 +1,12 @@
 Introducción
 --------------------
-Hoy en día las farmacias independientes cumplen un rol sumamente importante en el comercio de medicamentos a lo largo del país, brindando
-precios y medicinas alternativas a aquellas personas que buscan soluciones diferentes a las que proveen las farmacias de grandes cadenas.
+Hoy en día, las farmacias independientes cumplen un rol sumamente importante en el comercio de medicamentos a lo largo del país. Aun siendo empresas generalmente pequeñas y de recursos limitados en comparación a aquellas pertenecientes a las grandes cadenas, estas se caracterizan por contar con la preferencia de un público que busca soluciones y precios alternativos al momento de adquirir medicamentos.
 
-Farmacia Nueva Era es una farmacia independiente ubicada en Ancud que carece de herramientas que le permita la automatización de sus tareas
-relacionadas con la administración y el monitoreo de su inventario. Esto se traduce en poca eficiencia en la utilización de los tiempos de
-los empleados designados a llevar el control del inventario de la empresa.
+Ahora bien, las farmacias independientes suelen carecer de herramientas informáticas que les permitan la automatización de sus tareas y la optimización en el uso de sus tiempos y sus recursos, y esto se debe a que, siendo estas empresas pequeñas, la mayoría de las veces no cuentan con la posibilidad de adquirir e implementar estos tipos de sistemas, ya sea por falta de recursos, o bien, por falta de información. Es aquí donde nuestro proyecto encuentra su iniciativa y su punto de partida.
 
-El proyecto se basa en el desarrollo de un sistema web para Farmacia Nueva Era que busca suplir esta necesidad, mediante la automatización
-de las tareas de administración de inventario. El objetivo del proyecto es brindar a Nueva Era un medio que les permita optimizar en cierta medida los 
-tiempos dispuestos para estos procesos.
+Farmacia Nueva Era es una farmacia independiente ubicada en Ancud, que al igual que muchas farmacias independientes, no cuenta con una solución informática que permita mejorar la elaboración de sus tareas.
 
-La iniciativa del proyecto nace de la idea de brindar a farmacias a independientes, que, siendo empresas generalmente pequeñas, la mayoría
-de las veces no cuentan con los recursos o los medios para acceder a sistemas avanzados similares a los que poseen las farmacias pertenecientes
-a las grandes cadenas, o incluso, no son conscientes de los beneficios que se pueden obtener mediante la implementación de dichos sistemas.
+Lo que busca nuestro proyecto es desarrollar una aplicación web dirigida a Nueva Era, que les permita a sus funcionarios y administradores monitorear y manejar el inventario de la empresa de manera eficiente, permitiendo optimizar la utilización de los tiempos de sus trabajadores.
 
-La aplicación permitirá a la administración de la farmacia mantener una base de datos con información relevante de cada uno de sus 
-medicamentos. De esta manera, los administradores podrán corroborar tanto el stock como la disponibilidad de los medicamentos existentes 
-en la farmacia de forma fácil y rápida, optimizando...
+Mediante el presente informe, expondremos de manera detallada cada uno de los factores relevantes involucrados en el desarrollo del proyecto.
+
