@@ -1,3 +1,6 @@
+Marco Teórico
+----------------------------
+
 “La farmacia (del griego φάρμακον/fármakon/,'medicamento, veneno, tóxico') es la ciencia y práctica de la preparación, conservación, presentación y dispensación de medicamentos; también es el lugar donde se preparan, dispensan y venden los productos medicinales. Esta definición es la más universal y clásica que se solapa con el concepto de Farmacia Galénica (Galeno fue un médico griego del siglo II experto en preparar medicamentos).”
 
 Las farmacias pertenecientes a las grandes cadenas, dentro de la industria de la medicina, poseen el papel principal en la distribución de medicamentos de manera pública y directa, ofreciendo un servicio de acceso rápido y funcionando principalmente como puntos de venta, en los que los clientes pueden adquirir aquellos fármacos que necesiten, o que las hayan sido recetados.
