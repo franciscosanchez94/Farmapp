@@ -10,7 +10,12 @@ Clase 3 - 19 de agosto
 ---------------------
 Reestructuración de equipos, avance de Pitch
 
-Clase 4 - 26 de agosto
+Clase 4 - 20 de agosto
 --------------------
+
+Planteamiento de Issues, avance con el informe
+
+Clase 5 - 26 de agosto
+---------------------
 
 Finalización de la primera parte del informe, grabación del Pitch
