@@ -19,3 +19,8 @@ Clase 5 - 26 de agosto
 ---------------------
 
 Finalización de la primera parte del informe, grabación del Pitch
+
+Clase 6 - 27 de agosto 
+-------------
+
+Avance de la segunda parte del informe (Impacto de la Solución)
