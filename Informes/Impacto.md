@@ -5,6 +5,8 @@ Proceso de negocio afectado
 
 La implementación del sistema que se está desarrollando afectará directamente al proceso de compra y venta de la empresa, ya que las funcionalidades del software están destinadas específicamente a automatizar los procesos correspondientes a las entradas y salidas de los medicamentos de la farmacia, proporcionando a los administradores y farmacéuticos un sistema de registros simple e intuitivo que les permitirá tomarse menos tiempo a la hora de actualizar las existencias del inventario.
 
+
+
 ...
 
 Registro de Interesados
