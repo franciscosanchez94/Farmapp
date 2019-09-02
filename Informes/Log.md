@@ -24,3 +24,8 @@ Clase 6 - 27 de agosto
 -------------
 
 Avance de la segunda parte del informe (Impacto de la Solución)
+
+Clase 7 - 2 de Septiembre
+----------------
+
+Finalización de apartados del informe (Impacto, Objetivos, Metodología de Trabajo)
