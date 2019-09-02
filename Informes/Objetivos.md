@@ -4,9 +4,10 @@ Optimizar la gestión de inventario y ventas de Farmacia Nueva Era mediante la i
 
 Objetivos específicos
 -----------------
-1.	Disminuir el tiempo de atención al cliente mediante la automatización del proceso de búsqueda de producto en bodega y actualización de inventario tras cada venta.
-2.	Disminuir el tiempo utilizado en las tareas relacionadas con la administración del inventario de bodega.
-3.	Tener un control de inventario en tiempo real accesible desde internet.
-4.	Generar reportes de ventas para tener información oportuna sobre el funcionamiento de la empresa.
+1.	Disminuir el tiempo de atención al cliente mediante la automatización del proceso de búsqueda de producto en bodega y actualización de inventario tras cada venta. Se pretende disminuir en al menos un veinte porciento el tiempo demandado para la realización de estas tareas.
 
-Me parecen muy bien los objetivos, pero falta cuantificarlos. Cuanto pretenden disminuir los tiempos?. Cuales son los tiempos actuales?. Necesitamos una forma de medir eso?
+2.	Disminuir el tiempo utilizado en las tareas relacionadas con la administración del inventario de bodega. Se pretende disminuir en al menos un treinta porciento el tiempo demandado para la realización e estas tareas.
+
+3.	Tener un control de inventario en tiempo real accesible desde internet.
+
+4.	Generar reportes de ventas para tener información oportuna sobre el funcionamiento de la empresa.
