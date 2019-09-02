@@ -9,7 +9,7 @@ Farmacia Nueva Era es una farmacia independiente ubicada en Ancud, y no cuenta c
 Actualización y justificación del problema
 ------------
 
-Descripción de la organización - Antecedentes
+**Descripción de la organización - Antecedentes**
 
 La Empresa con la que trabajaremos como referente o cliente potencial corresponde a Farmacia Nueva Era, una farmacia independiente ubicada en Ancud, Chiloé. Fundada en 2001.
 
@@ -31,7 +31,7 @@ Estos funcionarios son:
 •	Un Bodeguero
 •	Dos Cajeros
 
-Diagnóstico
+**Diagnóstico**
 
 Farmacia Nueva Era, funcionando más que como un punto de venta de medicamentos, se centra también en el servicio a sus clientes y en la aclaración de sus consultas frente a los medicamentos que consumen o que le son recetados.
 
@@ -45,7 +45,7 @@ Esto debería lograr, principalmente, reducir los tiempos requeridos para la rea
 
 Además, se espera que, mediante la funcionalidad a la que tendrán acceso los farmacéuticos, el proceso de ventas deberían verse también afectado positivamente, disminuyendo en cierta medida el tiempo utilizado en este proceso, lo que podría eventualmente traducirse en un aumento de clientes atendidos en determinados periodos de tiempo. 
 
-Descripción del problema
+**Descripción del problema**
 
 Concretamente, la problemática que se pretende combatir con el proyecto, es –al menos en esta primera instancia- la ineficiencia en la utilización de los tiempos en las tareas de administración de inventario de Farmacia Nueva Era.
 
@@ -54,11 +54,11 @@ La empresa lleva la administración de administración de manera casi completame
 Justificación del problema
 ---------------
 
-Relevancia del problema.
+**Relevancia del problema**
 
 La implementación de un sistema de automatización en Farmacia Nueva Era, tiene como objetivo mejorar la calidad de vida de los funcionarios encargados de realizar las tareas relacionadas con la administración de su inventario, de manera que dichos funcionarios cuenten con una mayor cantidad de tiempo para desempeñarse en otros procesos, lo que finalmente debería mejorar el rendimiento general de la empresa.
 
-Complejidad del problema.
+**Complejidad del problema**
 
 La complejidad del problema se puede resumir específicamente como la inexistencia de un sistema de automatización para los procesos de monitoreo de inventario de la empresa.
 
