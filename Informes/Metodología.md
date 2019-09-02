@@ -29,4 +29,8 @@ Para el proceso de validación de la funcionalidad del sistema a desarrollar, se
 
 **Validación de la entrega de valor al negocio**
 
+La validación de la entrega de valor será responsabilidad de la empresa cliente y de sus usuarios finales, así como también de su jefe y dueño.
+
+...
+
 
