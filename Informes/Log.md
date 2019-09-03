@@ -29,3 +29,8 @@ Clase 7 - 2 de Septiembre
 ----------------
 
 Finalización de apartados del informe (Impacto, Objetivos, Metodología de Trabajo)
+
+Clase 8 - 3 de Septiembre
+---------------
+
+Último avance con el informe.
