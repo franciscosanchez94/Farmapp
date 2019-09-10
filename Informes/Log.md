@@ -34,3 +34,8 @@ Clase 8 - 3 de Septiembre
 ---------------
 
 Último avance con el informe.
+
+Clase 9 - 9 de Septiembre
+-----------------
+
+Presentaciones Primer Informe
