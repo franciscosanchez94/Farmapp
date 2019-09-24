@@ -39,3 +39,13 @@ Clase 9 - 9 de Septiembre
 -----------------
 
 Presentaciones Primer Informe
+
+Clase 10 - 16 de Septiembre
+-----------------
+
+Inasistencia
+
+Clase 11 - 23 de Septiembre
+--------------
+
+Avance requerimientos, finalización de mock-ups
